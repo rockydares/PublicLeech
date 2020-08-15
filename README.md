@@ -7,6 +7,7 @@ git clone https://github.com/rockydares/PublicLeech.git
  cd PublicLeech
  python3 -m venv venv
  . ./venv/bin/activate
+ 
  pip install -r requirements.txt
  # <Create config.py appropriately>
  python3 -m tobrot
